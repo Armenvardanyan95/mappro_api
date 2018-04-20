@@ -4,3 +4,4 @@ cloud_sql_proxy.exe
 app.yaml
 .htaccess
 index.fcgi
+*.pyc
